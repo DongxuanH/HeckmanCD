@@ -1,8 +1,10 @@
 HeckmanCD's Code
 
-Data and Our Works: https://github.com/bigdata-ustc
+Data: https://github.com/bigdata-ustc
 
 Paper Link: https://doi.org/10.1145/3627673.3679648
+
+Our Works: http://staff.ustc.edu.cn/~qiliuql/
 
 Abstract：
 Cognitive diagnosis, a fundamental task in education assessments,
