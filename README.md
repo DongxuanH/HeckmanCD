@@ -1,6 +1,9 @@
 HeckmanCD's Code
 
-Data: https://github.com/bigdata-ustc
+Usage:
+1. Train selection model: python selection.py
+2. Use selection model to help mirt model: python diagnosis.py
+3. optional. Train baseline mirt model: python diagnosis_mirt.py 
 
 Paper Link: https://doi.org/10.1145/3627673.3679648
 
